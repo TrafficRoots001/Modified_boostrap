@@ -6,19 +6,19 @@
 }
 .btn-yellow:focus,
 .btn-yellow.focus {
-  color: #fff;
+  color: #9b7b00;
   background-color: #fcffac;
   border-color: #dbda3b;
 }
 .btn-yellow:hover {
-  color: #fff;
+  color: #9b7b00;
   background-color: #faff8c;
   border-color: #dbda3b;
 }
 .btn-yellow:active,
 .btn-yellow.active,
 .open > .dropdown-toggle.btn-yellow {
-  color: #fff;
+  color: #9b7b00;
   background-color: #f7ff2f;
   border-color: #dbda3b;
 }
@@ -31,7 +31,7 @@
 .btn-yellow:active.focus,
 .btn-yellow.active.focus,
 .open > .dropdown-toggle.btn-yellow.focus {
-  color: #fff;
+  color: #9b7b00;
   background-color: #fcffac;
   border-color: #dbda3b;
 }
@@ -53,6 +53,6 @@ fieldset[disabled] .btn-yellow.focus {
   border-color: #dbda3b;
 }
 .btn-yellow .badge {
-  color: #5cb85c;
+  color: #9b7b00;
   background-color: #fff;
 }
