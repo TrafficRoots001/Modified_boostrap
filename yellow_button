@@ -1,4 +1,4 @@
-/* -- Yellow Button -- */
+/* -- Yellow Button -- */ /* --- Add this code into the bootstrap.css File  -- */
 .btn-yellow {
   color: #fff;
   background-color: #dbda3b;
